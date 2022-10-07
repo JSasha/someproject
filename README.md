@@ -1,0 +1,2 @@
+# someproject
+rust doc
